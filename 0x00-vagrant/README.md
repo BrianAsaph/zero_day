@@ -1,1 +1,1 @@
-Linux
+ubuntu/focal64
